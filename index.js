@@ -9,6 +9,7 @@ redirectBtn.addEventListener("click", () => {
 })
 
 
+
 const demoBth = document.getElementById("chain-pay-demo")
 
 const demoLink = "https://youtu.be/aFhSJlUdAKY"
@@ -19,4 +20,15 @@ demoBth.addEventListener("click", () => {
 
 })
 
+
+
+const introBth = document.getElementById("chain-pay-founders")
+
+const introLink = "https://youtu.be/aFhSJlUdAKY"
+
+introBth.addEventListener("click", () => {
+
+    window.location.href = introLink
+
+})
 
