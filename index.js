@@ -7,3 +7,16 @@ redirectBtn.addEventListener("click", () => {
     window.location.href = redirectLink
 
 })
+
+
+const demoBth = document.getElementById("chain-pay-demo")
+
+const demoLink = "https://youtu.be/aFhSJlUdAKY"
+
+demoBth.addEventListener("click", () => {
+
+    window.location.href = demoLink
+
+})
+
+
