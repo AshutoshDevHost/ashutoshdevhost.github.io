@@ -24,7 +24,7 @@ demoBth.addEventListener("click", () => {
 
 const introBth = document.getElementById("chain-pay-founders")
 
-const introLink = "https://youtu.be/aFhSJlUdAKY"
+const introLink = "https://youtu.be/jvt-73P-B0c"
 
 introBth.addEventListener("click", () => {
 
