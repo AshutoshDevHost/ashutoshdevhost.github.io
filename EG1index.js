@@ -29,4 +29,3 @@ checkoutBth.addEventListener("click", () => {
 
 
 
-// make sure you are on localhost 5500
