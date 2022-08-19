@@ -1,7 +1,7 @@
 const checkoutBth = document.getElementById("checkout-button")
 
 checkoutBth.addEventListener("click", () => {
-    fetch("http://example-servers.bloqfin.com/1/create-checkout-session", {
+    fetch("http://bloqfin-examples.us-west-1.elasticbeanstalk.com/1/create-checkout-session", {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
